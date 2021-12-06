@@ -3,9 +3,7 @@
 
 ⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
 
-![Screenshot]("https://user-images.githubusercontent.com/90234175/144792663-e9cc624b-434d-4180-aae9-c78bbf8d2302.png")
-
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
+[<img src="https://user-images.githubusercontent.com/90234175/144792663-e9cc624b-434d-4180-aae9-c78bbf8d2302.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
 ## Contents
 - [About](#about)
